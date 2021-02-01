@@ -4,4 +4,4 @@ number.times do |i|
   puts "#{i * 2}"  
 end
 
-number.times {|i| puts "#{i * 2}"}
+#number.times {|i| puts "#{i * 2}"}
